@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EclotoDesinCartPage/static/css/main.9c1c79ba.css",
+    "main.js": "/EclotoDesinCartPage/static/js/main.2ea22c9c.js",
+    "index.html": "/EclotoDesinCartPage/index.html",
+    "main.9c1c79ba.css.map": "/EclotoDesinCartPage/static/css/main.9c1c79ba.css.map",
+    "main.2ea22c9c.js.map": "/EclotoDesinCartPage/static/js/main.2ea22c9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c1c79ba.css",
+    "static/js/main.2ea22c9c.js"
+  ]
+}
